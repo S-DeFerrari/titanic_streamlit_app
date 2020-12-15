@@ -187,4 +187,4 @@ if st.button("Click to discover your fate"):
 
     else:
         st.image(death_pic, use_column_width=True)
-        st.write(f"I am sorry, {title_st} {name_st} would have been lost as sea.")
+        st.write(f"I am sorry, {title_st} {name_st} would have been lost at sea.")
